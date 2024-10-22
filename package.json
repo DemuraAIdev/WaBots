@@ -1,0 +1,14 @@
+{
+  "name": "WaBots",
+  "packageManager": "yarn@4.2.2",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  },
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc"
+  }
+}
